@@ -1,0 +1,18 @@
+[
+	{
+	"nome": "Texto 1",
+	"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+	"idade": 20
+	"altura": 1.72
+	"aporte": 6500
+	"nascimento": São Paulo
+	},
+	{
+	"nome": "Texto 2",
+	"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+	"idade": 30
+	"altura": 1.72
+	"aporte": 8500
+	"nascimento": Espirito Santo
+	}      
+]
