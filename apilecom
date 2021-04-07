@@ -1,5 +1,4 @@
-{
-    "content": [
+[
         {
             "nome": "Texto 1",
             "texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
@@ -25,4 +24,4 @@
 	          "nascimento": Rio de Janeiro
         }
     ]
-}
+
