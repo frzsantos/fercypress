@@ -5,7 +5,11 @@
 "idade": "20",
 "altura": "1.72",
 "aporte": "6500",
-"nascimento": "São Paulo"
+"nascimento": "São Paulo",
+"monetariook1": "1234567898765432",
+"monetarionok1": "12345678987654321",
+"monetariogrid1": "2345678765432345",
+"monetariogrid2": "56789876543212345"
 },
 {
 "nome": "Texto 2",
@@ -14,5 +18,9 @@
 "altura": "1.72",
 "aporte": "8500",
 "nascimento": "Espirito Santo"
+"monetariook2": "1234567898765432",
+"monetarionok2": "98765432123456789",
+"monetariogrid3": "6789876543212345",
+"monetariogrid4": "78987654321234567"
 }      
 ]
