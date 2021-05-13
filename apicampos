@@ -1,0 +1,23 @@
+[
+        {
+            "linhadetexto": "Texto 1",
+            "caixadetexto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+	          "inteiro": 20,
+            "ndecimal": 121.89,
+	          "monetario": 12345678.90
+        },
+        {
+            "linhadetexto": "Texto 2",
+            "caixadetexto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+	          "inteiro": 30,
+            "ndecimal": 245.72,
+	          "monetario": 98765432.10
+        },
+        {
+            "linhadetexto": "Texto 3",
+            "caixadetexto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+	          "inteiro": 40,
+            "ndecimal": 398.72,
+	          "monetario": 13579864.21
+        }
+]
